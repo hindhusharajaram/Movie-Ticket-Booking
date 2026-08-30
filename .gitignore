@@ -1,0 +1,12 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Editor & IDE configs
+.idea/
+.vscode/
+*.swp
+
+# Temporary export logs
+*.log
+*.tmp
